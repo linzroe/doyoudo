@@ -8,3 +8,6 @@ doyoudo每日登录领雪糕
  然后直接定时跑就可以了
  
  doyoudo主页：http://www.doyoudo.com 
+
+
+刚刚入门 python，写的不好，见谅
